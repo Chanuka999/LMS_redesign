@@ -66,10 +66,6 @@ Redesign an existing LMS platform to enhance its user experience by addressing t
 - **Google Forms** – User Feedback
 - **HCI Principles** – From Alan Dix’s book
 
-## 📷 Screenshots
-
-*(Include screenshots of your Figma prototype here if uploading to GitHub)*
-
 ## 🧑‍🤝‍🧑 Team Members & Contributions
 
 | Student ID                  | Contribution                 |
